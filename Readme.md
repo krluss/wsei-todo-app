@@ -24,10 +24,11 @@
     - install yarn if you do not have
     - yarn install
     - npm install expo-cli --global
-    - yarn run buildAndStart
+    - expo start --android/ expo start --ios
     - open http://localhost:19002 - Expo DevTools
-    - click 'Tunnel' in lower left corner screen 
-    - in terminal type: expo build:android/ build:ios and then login to expo account
+    - click 'Tunnel' in lower left corner screen
+    - in termin type "?" to open expo help
+    - in termin type "s" and login to your account
 3. Go to app in your phone
 4. Scan QR code or click on link
 5. Wait for download
